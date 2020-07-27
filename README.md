@@ -2,10 +2,10 @@
 
 **PI Info** is a Python 3 script showing system information on a Display-O-Tron 3000. Use the joystick to navigate between screens. The backlight can be turned on/off via joystick push.
 
-Screen1: Hostname, Temperature, CPU Utilization
-Screen2: IP Address
-Screen3: Disk Usage
-Screen4: Internet Status
+*Screen1: Hostname, Temperature, CPU Utilization
+*Screen2: IP Address
+*Screen3: Disk Usage
+*Screen4: Internet Status
 
 ![Example Screen](./res/piinfo.jpg)
 
